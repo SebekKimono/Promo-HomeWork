@@ -1,0 +1,22 @@
+{
+  "name": "promohomework",
+  "version": "1.0.0",
+  "description": "Homework for Promo technical interview",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebekKimono/Promo-HomeWork.git"
+  },
+  "author": "Sebastian Macioszek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebekKimono/Promo-HomeWork/issues"
+  },
+  "homepage": "https://github.com/SebekKimono/Promo-HomeWork#readme",
+  "dependencies": {
+    "cypress": "^12.7.0"
+  }
+}
